@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579062764709.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2281788489",
+    "id" : "2A5050A0",
+    "lastKnownWriteTime" : 1579063180,
+    "last_content_update" : 1579063180046,
+    "path" : "~/projects/Basic/src/Calc.c",
+    "project_path" : "src/Calc.c",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "c"
+}

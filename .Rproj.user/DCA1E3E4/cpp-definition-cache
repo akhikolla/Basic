@@ -1,0 +1,47 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "C:/Users/akhil/Documents/projects/Basic/src/Calc.c",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "sum(int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sum#I#I#"
+            }
+        ],
+        "file" : "C:/Users/akhil/Documents/projects/Basic/src/Calc.c",
+        "file_last_write" : 1579063180.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/akhil/Documents/projects/Basic/src/Calc.h",
+        "file_last_write" : 1579063177.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/akhil/Documents/projects/Basic/src/interface.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "sum_interface(int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@sum_interface#*I#S0_#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/akhil/Documents/projects/Basic/src/interface.c",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "R_init_NewPackage(DllInfo *)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_init_NewPackage#*$@S@_DllInfo#"
+            }
+        ],
+        "file" : "C:/Users/akhil/Documents/projects/Basic/src/interface.c",
+        "file_last_write" : 1579063286.000000
+    }
+]

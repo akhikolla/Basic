@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579063195168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1723028944",
+    "id" : "EAFB0C08",
+    "lastKnownWriteTime" : 1579063286,
+    "last_content_update" : 1579063286154,
+    "path" : "~/projects/Basic/src/interface.c",
+    "project_path" : "src/interface.c",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "c"
+}
